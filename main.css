@@ -80,6 +80,7 @@ body {
     align-items: center;
     justify-items: center;
     justify-content: space-around;
+    overflow: hidden;
 
 }
 

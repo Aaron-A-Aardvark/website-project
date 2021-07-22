@@ -80,7 +80,7 @@ body {
     align-items: center;
     justify-items: center;
     justify-content: space-around;
-    overflow: hidden;
+    
 
 }
 
@@ -96,6 +96,7 @@ body {
     /* flex-flow:row, nowrap;  */
     color:rgba(255, 252, 0, 0.8);
     /* padding: 20%, 30%, 30%, 20%; */
+    overflow: hidden;
 }
 .imaging {
     height: 100%;
